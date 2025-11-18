@@ -557,11 +557,11 @@
     ]
   },
   {
-    "value": "GMT Standard Time",
-    "abbr": "GDT",
+    "value": "Western European Summer Time",
+    "abbr": "WEST",
     "offset": 1,
     "isdst": true,
-    "text": "(UTC) Dublin, Lisbon",
+    "text": "(UTC+01:00) Dublin, Lisbon",
     "utc": [
       "Atlantic/Canary",
       "Atlantic/Faeroe",
